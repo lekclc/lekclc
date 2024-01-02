@@ -1,6 +1,5 @@
 # Hi there 👋
 
-![GitHub Snake](assets/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@lekclc?theme=rule34"></img>
