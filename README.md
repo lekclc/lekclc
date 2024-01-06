@@ -1,10 +1,5 @@
 # Hi there 👋
 
-
-<p align="center">
-  <img width="300px" src="https://count.getloli.com/get/@lekclc?theme=rule34"></img>
-</p>
-
 ## I'm **Llce1**
 
 - 🔭 I’m currently working on noting
