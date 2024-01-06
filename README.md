@@ -3,7 +3,6 @@
 
 <p align="center">
   <img width="300px" src="https://count.getloli.com/get/@lekclc?theme=rule34"></img>
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekclc&layout=compact"></img>
 </p>
 
 ## I'm **Llce1**
