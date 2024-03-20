@@ -2,9 +2,8 @@
 
 ## I'm **Llce1**
 
-- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning: pwn
+- 🌱 I’m currently learning: PWN
 
 - 📫 How to reach me: 
 
