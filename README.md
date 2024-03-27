@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: PWN
 
-- 📫 How to reach me: 
+- 📫 How to reach me: yalelckc@gmail.com
 
 ## 🚉 **Developing Tools&Platforms**
 
