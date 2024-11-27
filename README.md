@@ -3,7 +3,7 @@
 ## I'm **ymixz**
 
 
-- 🌱 I’m currently learning: PWN
+- 🌱 I’m currently learning: PWN, Solidity
 
 - 📫 How to reach me: yshengjuncc@gmail.com
 
